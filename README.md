@@ -2,6 +2,9 @@
 
 I'm FlyInTheSky, a undergraduate from Shenzhen, Guangdong, China.
 
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=FlyInTheSky10&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
+-   :hammer_and_pick: C++ / Go / JavaScript / Vue
 - 🔭 I’m currently working on backend developing.
 - 🌱 I’m currently learning computer science.
 - 🤔 I’m looking for friends on computer developing.
