@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm FlyInTheSky, a undergraduate from Shenzhen, Guangdong, China.
+
+- 🔭 I’m currently working on backend developing.
+- 🌱 I’m currently learning computer science.
+- 🤔 I’m looking for friends on computer developing.
+- 📫 How to reach me: my QQ or Wechat.
+- ⚡ Fun fact: I'm also interested in bus, metro, cities, geography.
+- Here's my blog: https://blog.lyffly.com/
+
 <!--
 **FlyInThesky10/FlyInTheSky10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
